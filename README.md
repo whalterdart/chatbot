@@ -1,4 +1,4 @@
-# 🍕 Pagana - Sistema de Atendimento Virtual para Pizzaria
+# 🍕 ChatBot - Sistema de Atendimento Virtual para Pizzaria
 
 Um sistema completo de atendimento virtual para pizzaria, desenvolvido com React, Node.js, WebSocket e integração com Google Gemini AI para proporcionar uma experiência de chat interativa e inteligente.
 
