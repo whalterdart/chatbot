@@ -5,7 +5,7 @@ Um sistema completo de atendimento virtual para pizzaria, desenvolvido com React
 
 ## 🎯 Visão Geral
 
-O **Pagana** é um sistema de atendimento virtual inteligente para pizzarias que combina:
+O **Chatbot** é um sistema de atendimento virtual inteligente para pizzarias que combina:
 
 - **Interface Web Moderna**: Chat em tempo real com design responsivo
 - **Inteligência Artificial**: Integração com Google Gemini para respostas contextuais
